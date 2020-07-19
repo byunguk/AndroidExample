@@ -1,0 +1,3 @@
+include ':ExampleJava'
+include ':app'
+rootProject.name = "AddressLookup"
